@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">State Machine Lab</string>
+
+
+    <string name="addSandwich">Add</string>
+
+
+    <string name="inputName">Input Namew</string>
+
+
+    <string name="wrapName"> Wrap</string>
+
+
+    <string name="grinderName">Grinder</string>
+
+
+    <string name="submitName">Submit</string>
+
+
+    <string name="createSandwich">Create Sandwich</string>
+
+
+    <string name="predefinedSandwich">StateMachine2</string>
+
+
+</resources>
